@@ -23,7 +23,6 @@ Full-Stack Developer | UI/UX Enthusiast | Frontend Engineer
 ✉️ Contact: karanjated300@gmail.com
 
 * 🌍  I'm based in Nairobi
-* ✉️  You can contact me at [karanjated300@gmail.com](mailto:karanjated300@gmail.com)
 * 🧠  I'm currently learning springframework
 * 👥  I'm looking to collaborate on interesting projects
 * 💬  Ask me about i'm secretly Batman.... but don't tell anyone
